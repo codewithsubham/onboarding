@@ -1,5 +1,5 @@
 /**
- * CLASS keyword
+ * Class keyword
  * javascript supports object protyping inheritance
  * Class syntax is a syntactical coat over prototyping inheritance to refacor main code in more orgainised way and in abbreviated
  */
